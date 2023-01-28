@@ -1,3 +1,4 @@
+//dummy data
 export const homeAbout = [
     {
       id: 1,
