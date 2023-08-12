@@ -11,6 +11,7 @@ import Blog from "./Components/blog/Blog";
 import Contact from "./Components/contact/Cantact";
 import Footer from "./Components/common/footer/Footer";
 
+//App routes
 function App() {
   return (
     <>
